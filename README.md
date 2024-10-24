@@ -1,4 +1,5 @@
-#lab1
+**lab_1**
+
 // -- CRUD, Query and Indexes
 
 
@@ -125,7 +126,7 @@
 
 // 31- drop the hight index using two different methods
 
-#lab2
+**lab_2**
 // -- Aggregation & Relations
 
 
